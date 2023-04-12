@@ -17,12 +17,12 @@ Setelah Andi melakukan riset, ternyata Andi memiliki masalah, yaitu Andi membutu
 
 -Hasil Test Case
 1.Customer ingin menambahkan dua item baru menggunakan method add_item(). Item yang ditambahkan adalah sebagai berikut:
-![Test_case_1] (Test_case_1.png)
+![Test_case_1](Test_case_1.png)
 2.Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka Customer menggunakan method delete_item() untuk menghapus item. Item yang ingin dihapuskan adalah mobil
-![Test_case_2] (Test_case2.png)
+![Test_case_2](Test_case2.png)
 3.Ternyata setelah dipikir - pikir Customer salah memasukkan item yang ingin dibelanjakan! Daripada menghapusnya satu - satu, maka Customer cukup menggunakan method reset_transaction() untuk menghapus semua item yang sudah ditambahkan.
-![Test_case_3_1] (Test_case3_1.png)
-![Test_case_3_2] (Test_case_3_2.png)
-![Test_case_3_3] (Test_case_3_3.png)
+![Test_case_3_1](Test_case3_1.png)
+![Test_case_3_2](Test_case_3_2.png)
+![Test_case_3_3](Test_case_3_3.png)
 4.Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan method check_out() . Sebelum mengeluarkan output total belanja akan menampilkan item - item yang dibeli.
-![Test_case_4] (Test_case_4)
+![Test_case_4](Test_case_4)
