@@ -47,6 +47,8 @@ dikarenakan saya sudah menjelaskan fungsi sekarang saya ingin menjelaskan fungsi
 ![Flowchart_1](flow1.png)
 ![Flowchart_2](flow2.png)
 ![Flowchart_3](flow3.png)
+![Flowchart_4](flow4.png)
+
 Digambar 1 kita bisa melihat ketika programnya di run kita disuruh untuk menginputkan nama kita, setelah kita menginput nama kita maka akan muncul kata sambutan dan ke 9 opsi yang disediakan program
 Bisa dilhat di gambar 1 ada 2 pilihan yang terlihat yaitu Tambah item ke keranjang, Update nama item di keranjang, Perbarui jumlah item di keranjang,Perbarui harga item di keranjang, Hapus item dari keranjang, Hapus semua item yang ada di keranjang ,Lihat Struk Belanja,Lihat Keranjang ,Keluar dari program. 
 dari flowchart diatas mereka akan terus melakukan looping hingga user memilih piliha mengakhiri program di opsi 9
