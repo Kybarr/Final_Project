@@ -29,21 +29,28 @@ Setelah Andi melakukan riset, ternyata Andi memiliki masalah, yaitu Andi membutu
 
 -Penjelasan Fungsi
 Didalam codingan ini terdapat 7 fungsi yang membantu program kasir tersebut
+
 1.def Membuat_nomor_Transaksi():
 Fungsi ini digunakan untuk membuat nomor transaksi secara random ketika kita struk belanja kita keluar menggunakan random.randint(100000, 999999) untuk membuat angka acak
+
 2.def tambah_item():
 Fungsi ini jelas sangat diperlukan untuk menambahkan barang di semua program kasir
+
 3.def perbarui_nama_item():,def perbarui_jumlah_item(),def perbarui_harga_item():
 Fungsi ini digunakan ketika kita salah menginput nama atau jumlah atau juga harga item yang kita masukkan maka dengan ketiga fungsi ini ketiga permasalahan itu akan terpecahkan
+
 4.def hapus_item():
 Fungsi ini digunakan untuk menghapus salah satu item yang dimana kita tidak ingin memmbeli item tersebut 
+
 5.def print_struk():
 Fungsi ini berguna untuk membuat struk ketika kita sudah selesai belanja, nah di fungsi ini saya menambahkan beberapa attribute yaitu menambahkan nama,datetame dan nomor transaksi untuk membuat struk tersbut
 lebih bagus
 
 
 -Penjelasan Flowchart
+
 dikarenakan saya sudah menjelaskan fungsi sekarang saya ingin menjelaskan fungsi dari keseluruhan program tersebut/alur jalannya program
+
 ![Flowchart_1](flow1.png)
 ![Flowchart_2](flow2.png)
 ![Flowchart_3](flow3.png)
