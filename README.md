@@ -25,4 +25,4 @@ Setelah Andi melakukan riset, ternyata Andi memiliki masalah, yaitu Andi membutu
 ![Test_case_3_2](Test_case_3_2.png)
 ![Test_case_3_3](Test_case_3_3.png)
 4.Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan method check_out() . Sebelum mengeluarkan output total belanja akan menampilkan item - item yang dibeli.
-![Test_case_4](Test_case_4)
+![Test_case_4](Test_case_4.png)
